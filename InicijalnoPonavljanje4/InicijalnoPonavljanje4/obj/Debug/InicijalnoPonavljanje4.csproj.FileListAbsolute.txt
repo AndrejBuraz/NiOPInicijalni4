@@ -1,0 +1,8 @@
+C:\Users\ucenik\source\repos\InicijalnoPonavljanje4\InicijalnoPonavljanje4\bin\Debug\InicijalnoPonavljanje4.exe.config
+C:\Users\ucenik\source\repos\InicijalnoPonavljanje4\InicijalnoPonavljanje4\bin\Debug\InicijalnoPonavljanje4.exe
+C:\Users\ucenik\source\repos\InicijalnoPonavljanje4\InicijalnoPonavljanje4\bin\Debug\InicijalnoPonavljanje4.pdb
+C:\Users\ucenik\source\repos\InicijalnoPonavljanje4\InicijalnoPonavljanje4\obj\Debug\InicijalnoPonavljanje4.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\InicijalnoPonavljanje4\InicijalnoPonavljanje4\obj\Debug\InicijalnoPonavljanje4.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\InicijalnoPonavljanje4\InicijalnoPonavljanje4\obj\Debug\InicijalnoPonavljanje4.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\InicijalnoPonavljanje4\InicijalnoPonavljanje4\obj\Debug\InicijalnoPonavljanje4.exe
+C:\Users\ucenik\source\repos\InicijalnoPonavljanje4\InicijalnoPonavljanje4\obj\Debug\InicijalnoPonavljanje4.pdb
